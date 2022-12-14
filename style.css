@@ -1,0 +1,12 @@
+* {
+  background-color: lightgreen;
+}
+.img-center {
+    display:block;
+    width:300px; 
+    margin:0 auto;
+  }
+
+.float {
+  text-align: center;
+}
